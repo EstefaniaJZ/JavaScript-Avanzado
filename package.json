@@ -1,0 +1,15 @@
+{
+  "name": "java-avanzado",
+  "version": "1.0.0",
+  "description": "\"Proyecto inicial de Node\"",
+  "main": "java.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon java.js"
+  },
+  "author": "Estefania Reyes",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
